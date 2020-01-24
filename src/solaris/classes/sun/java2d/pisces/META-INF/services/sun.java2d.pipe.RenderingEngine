@@ -1,0 +1,8 @@
+# Jules Rendering Engine module
+sun.java2d.jules.JulesRenderingEngine
+
+#  Pisces Rendering Engine module
+sun.java2d.pisces.PiscesRenderingEngine
+
+#  Marlin Rendering Engine module
+sun.java2d.marlin.MarlinRenderingEngine
